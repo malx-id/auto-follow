@@ -1,7 +1,8 @@
 '''
-Name  : Auto Follow
-Mulai : 26-07-2020 -> 20.08
-Author: Akmal ID
+Name   : Auto Follow
+Mulai  : 26-07-2020 -> 20.08
+Selwsai: 26-07-2020 -> 21.20
+Author : Akmal ID
 '''
 
 from bs4 import BeautifulSoup as par
