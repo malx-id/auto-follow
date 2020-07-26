@@ -1,7 +1,6 @@
 # auto-follow
 
-$ pkg install python
-$ pkg install git
-$ pip install headerz
-$ pip install bs4
-$ pip install requests
+$ pkg instal python<br>
+$ pip instal headerzr<br>
+$ pip instal bs4<br>
+$ pip install requests<br>
